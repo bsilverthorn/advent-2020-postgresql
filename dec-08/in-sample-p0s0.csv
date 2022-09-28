@@ -1,0 +1,10 @@
+pos,ins,arg
+0,nop,0
+1,acc,1
+2,jmp,4
+3,acc,3
+4,jmp,-3
+5,acc,-99
+6,acc,1
+7,jmp,-4
+8,acc,6
